@@ -13,20 +13,29 @@ Este é um projeto Java que aborda o controle de fluxo, utilizando um simples pr
 
 Certifique-se de que você tem o Java instalado no seu sistema. Para executar o programa:
 
-1. Clone este repositório:
-~~~ git clone url ~~~
+__1. Clone este repositório:__
 
-2. Navegue até o diretório do projeto:
-~~~ cd controle-fluxo ~~~
+```
+git clone [url](https://github.com/anajvn/controle-fluxo.git)
+```
 
-3. Compile o código-fonte:
-~~~ javac Contador.java ParametrosInvalidosException.java ~~~
+__2. Navegue até o diretório do projeto:__
+```
+cd controle-fluxo
+```
 
-4. Execute o programa:
+__3. Compile o código-fonte:__
+```
+javac Contador.java ParametrosInvalidosException.java
+```
 
-~~~ java Contador ~~~
+__4. Execute o programa:__
 
-5. Siga as instruções no console para inserir os dois parâmetros.
+```
+java Contador
+```
+
+__5. Siga as instruções no console para inserir os dois parâmetros.__
 
 ## Estrutura do Projeto
 
